@@ -2,6 +2,7 @@
 Automation test cases for To Do List app
 
 **TEST SCENARIOS**
+
 **1.Task Creation/ Adding new tasks:**
 To verify if a user can add a new task with valid inputs and is able to view in to do list.
 To verify if a task is not created when the input is empty or invalid.
