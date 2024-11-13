@@ -1,5 +1,6 @@
-# todo
-Automation test cases for To Do List app
+**To-Do List Automation with Cypress**
+This project automates the testing of a To-Do List application using the Cypress testing framework with JavaScript. 
+It covers core functionalities like adding tasks, editing tasks, completing tasks, and deleting tasks in the TodoMVC React App.
 
 **TEST SCENARIOS**
 
@@ -28,10 +29,6 @@ Automation test cases for To Do List app
 **7. Negative Scenarios**
 - Attempt to add empty tasks.
 
-**To-Do List Automation with Cypress**
-This project automates the testing of a To-Do List application using the Cypress testing framework with JavaScript. 
-It covers core functionalities like adding tasks, editing tasks, completing tasks, and deleting tasks in the TodoMVC React App.
-
 **Prerequisites**
 Key dependencies used in the project:
 Cypress: ^13.0.0
@@ -43,7 +40,9 @@ Browser: Chrome browser for running Cypress tests.
 Clone the Repository:
 git clone <repository-url>
 cd <repository-directory>
-**Install Dependencies:** required dependencies installation using npm:
+
+**Install Dependencies:** 
+required dependencies installation using npm:
 npm install
 
 **Run Cypress Test Runner:** 
